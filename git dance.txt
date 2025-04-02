@@ -1,0 +1,2 @@
+when want to be a digital designer ,you have to know your git dance
+learn to create a file and push it to the git remote reposity

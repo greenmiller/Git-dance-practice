@@ -1,0 +1,2 @@
+once you push work in , youd should learn to pull and add changes
+once changes have been made check and see that they have been saved remotely
