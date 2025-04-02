@@ -1,3 +1,4 @@
 once you push work in , youd should learn to pull and add changes
 once changes have been made check and see that they have been saved remotely
 edit the work online then pull the repository locally
+oncw that is done ,create a branch which you work side by side with the master branch
